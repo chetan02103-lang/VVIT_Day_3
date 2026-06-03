@@ -1,3 +1,7 @@
-pumpy
+numpy
 pandas
 mathplotlib
+streamlit
+plotly
+seaborn
+scikit-learn
